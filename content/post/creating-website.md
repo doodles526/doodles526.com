@@ -6,7 +6,7 @@ Tags: ["Hugo"]
 Topics: ["Development", "Web", "golang"]
 ---
 
-The other day on [HN](news.ycombinator.com) I read an
+The other day on [HN](http://news.ycombinator.com) I read an
 article entitled, 
 ["Write Code Every Day"](http://ejohn.org/blog/write-code-every-day/)
 and I found it quite profound. The article sets up 3 basic rules:
