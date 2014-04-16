@@ -4,6 +4,7 @@ date: "2014-04-12"
 slug: "creating-website"
 Tags: ["Hugo"]
 Topics: ["Development", "Web", "golang"]
+Section: "post"
 ---
 
 The other day on [HN](http://news.ycombinator.com) I read an
