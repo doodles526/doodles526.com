@@ -3,11 +3,13 @@
 	<meta charset="utf-8">
 	<base href="{{ .Site.BaseUrl }}">
 	<title>{{ .Site.Title}}</title>
+	<link rel="stylesheet" href="/static/css/style.css"/>
 	<link rel="canonical" href="{{ .Permalink }}"/>
 	<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 </head>
 
-<body lang="en">
+<body>
+	{{ template "chrome/subheader.html"}}
 	<section id="main">
 	{{ range first 10 .Data.Pages }}
 		{{ .Render "summary" }}

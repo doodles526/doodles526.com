@@ -7,19 +7,16 @@
  font-family: 'Bitter', serif;
 }
 
-
-body
-{
+body {
 background:url('/static/img/background.png') no-repeat center center fixed;
  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
 }
 
 #main {
-	width:33%;
+	width:43%;
 	margin: 0 auto;
 	background: rgba(126, 104, 88, .75);
 	padding: 40px;
@@ -37,9 +34,6 @@ background:url('/static/img/background.png') no-repeat center center fixed;
 	background: rgba(241, 233, 194, .6);
           -moz-border-radius-topright: 20px;
           -webkit-border-top-right-radius: 20px;
-	li {
-		display: inline;
-	}
 }
 
 
