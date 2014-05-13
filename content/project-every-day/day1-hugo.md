@@ -31,7 +31,7 @@ setup and my work for the day.
 
 I already had Go installed, so getting hugo was as easy as:
 	go get github.com/spf13/hugo
-
+test
 After this I needed to setup a simple file structure:
 
 >	./
